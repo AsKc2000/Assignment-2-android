@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment-2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">open navigaaion drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
